@@ -15,8 +15,8 @@ const Home = () => {
         <Question2/>,
         <Question3/>,
         <Question4/>,
-        <Question5/>,
-        <Question6/>,
+        // <Question5/>,
+        // <Question6/>,
     ];
 
     const goToNextQuestion = () => {
